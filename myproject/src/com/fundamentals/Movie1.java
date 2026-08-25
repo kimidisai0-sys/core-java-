@@ -16,11 +16,11 @@ public class Movie1 {
 
 	public static void main(String[] args) {
 		Movie1 m1 = new Movie1();
-		m1.telugu();
 		m1.moviename="RRR";
 		m1. relesedyear=2022;
 		m1. ticketprice=300;
-		
+		m1.telugu();
+
 	}
 
 }

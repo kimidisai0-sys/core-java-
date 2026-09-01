@@ -6,7 +6,7 @@ public class Testdemo1 {
 	short s = (short)4375683;
 	int i = 4678456;
 	long l = 43246576;
-	float f = 0x46345f;
+	float f = 4634.5f;
 	double d = 4633.43254;
 	char c='a';
 	boolean bo = true;

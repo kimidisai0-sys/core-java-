@@ -7,6 +7,7 @@ public class Literaldemo2 {
 		int i1 = 0345;
 		int i2 = 0x345;
 		int i3 = 0b101010;
+		
 
 		float f = 345f;
 		float f1 = 0345;
@@ -49,8 +50,6 @@ public class Literaldemo2 {
 		
 		System.out.println("s:"+s);
 		System.out.println("s1:"+s1);
-
-
 	}
 
 }
